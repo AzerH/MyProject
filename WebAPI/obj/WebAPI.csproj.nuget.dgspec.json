@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Business\\Business.csproj": {
+    "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\Qwerty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Business\\obj\\",
+        "outputPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Qwerty\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Entities\\Entities.csproj"
+              "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -79,14 +79,14 @@
         }
       }
     },
-    "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Core\\Core.csproj": {
+    "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\Qwerty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Core\\obj\\",
+        "outputPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Qwerty\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -151,14 +151,14 @@
         }
       }
     },
-    "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\Qwerty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Qwerty\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -175,11 +175,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Core\\Core.csproj"
+              "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Core\\Core.csproj"
               },
-              "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Entities\\Entities.csproj"
+              "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -218,14 +218,14 @@
         }
       }
     },
-    "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Qwerty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Qwerty\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -242,8 +242,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Core\\Core.csproj"
+              "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Core\\Core.csproj"
               }
             }
           }
@@ -276,14 +276,14 @@
         }
       }
     },
-    "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\Qwerty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Qwerty\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -300,17 +300,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Business\\Business.csproj"
+              "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Business\\Business.csproj"
               },
-              "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Core\\Core.csproj"
+              "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Core\\Core.csproj"
               },
-              "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Entities\\Entities.csproj"
+              "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Entities\\Entities.csproj"
               }
             }
           }

@@ -1781,6 +1781,8 @@
       },
       "Core/1.0.0": {
         "dependencies": {
+          "Autofac": "6.4.0",
+          "Autofac.Extras.DynamicProxy": "6.0.0",
           "FluentValidation": "11.2.0",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.2"
         },

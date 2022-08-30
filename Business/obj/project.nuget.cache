@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OJCEK/c0Rd2q/da2LsBWD72I1iWYkNTcYzTuq5dIwdrem3HvGo9RyoxPRbdrOtvc3999arryUqMsnrN5X8GYGQ==",
+  "dgSpecHash": "qorUYeDBluN7OGG9N3dFkVH61NvFnSsL9ika5+HZNV+lTIuAIiLtyufP/pJtFcevfDvaVyqa4+/n9w1y4ZML/w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Business\\Business.csproj",
+  "projectFilePath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Business\\Business.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Qwerty\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\Qwerty\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",

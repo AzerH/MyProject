@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace Business.ValidationRules.FluentValidation
 {
-    public class ProductValidation : AbstractValidator<Product>
+    public class ProductValidator : AbstractValidator<Product>
     {
-        public ProductValidation()
+        public ProductValidator()
         {
             RuleFor(p => p.ProductName).NotEmpty();
             RuleFor(p => p.ProductName).MinimumLength(2);

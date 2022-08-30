@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MREE/hfLALPG2plGZOb9lrsnG4d8U1W5skai6Wh5Lztxf1N9o2txaUAqmLnhud+6qlq5ts8Jb45tGOu8MtUAoA==",
+  "dgSpecHash": "2AdHqM7b7jfjW2hYymbJdctxAKIAFtT8GexRGUIQKLOGaiMeHc8UgbgHIvWD6DE3hd21PSf/S142nw+haoqAvg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Qwerty\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
     "C:\\Users\\Qwerty\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",

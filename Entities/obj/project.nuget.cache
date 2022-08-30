@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RDhAG3fl/EE0NPKjoWXZ9YzeXEo/S2tb6VRxpHVFMWpuqI7uhU1YNMOtsfm39iN34qycg6goAuDJLcMMYTwfig==",
+  "dgSpecHash": "oeHMmrLiPkJDEuVyA3xlypagZk4NN8PkXclqXE8lnfRWbWELmOM5t5a2sle6tP8pmpuYf6aKZnHwB/HUZIPu8A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Qwerty\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\Qwerty\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",

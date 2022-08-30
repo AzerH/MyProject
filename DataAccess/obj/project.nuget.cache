@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "B+Y5P/0e9sYAkMzFB37g4fjAl325Rjj0c/RUl9Qt2VIcgmrRz8AlVEA/r1QR956y9I2aLuP4DXAU2jreV4t6Lw==",
+  "dgSpecHash": "t6Rp94lteWg05gHYoQqqsjGEBXmCqCk2ikDbzkFBL9aLGmuWWJ7v0geCrA7I7cJdUd7TLZu2Lm++Ql8OJmPlpg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Qwerty\\Desktop\\Lessons\\Lessons\\MyProject\\DataAccess\\DataAccess.csproj",
+  "projectFilePath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyProject\\DataAccess\\DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Qwerty\\.nuget\\packages\\autofac\\6.1.0\\autofac.6.1.0.nupkg.sha512",
     "C:\\Users\\Qwerty\\.nuget\\packages\\autofac.extras.dynamicproxy\\6.0.0\\autofac.extras.dynamicproxy.6.0.0.nupkg.sha512",
