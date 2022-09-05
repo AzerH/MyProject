@@ -167,7 +167,6 @@ C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\bin\Debug\net5.0\Microsoft.I
 C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
-C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
 C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -211,3 +210,10 @@ C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\obj\Debug\net5.0\WebAPI.dll
 C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
 C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\obj\Debug\net5.0\WebAPI.pdb
 C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.dll
+C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
