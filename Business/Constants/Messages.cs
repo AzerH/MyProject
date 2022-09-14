@@ -24,6 +24,6 @@ namespace Business.Constants
         public static string PasswordError = "Parol xetasi";
         public static string SuccessfulLogin = "Ugurlu girish";
         public static string UserAlreadyExists = "Istifadeci movcud";
-        public static string AccessTokenCreated;
+        public static string AccessTokenCreated = "Token created";
     }
 }

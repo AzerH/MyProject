@@ -138,7 +138,6 @@ C:\Users\Qwerty\Desktop\Lessons\Lessons\MyProject\WebAPI\obj\Debug\net5.0\WebAPI
 C:\Users\Qwerty\Desktop\Lessons\Lessons\MyProject\WebAPI\bin\Debug\net5.0\Autofac.Extensions.DependencyInjection.dll
 C:\Users\Qwerty\Desktop\Lessons\Lessons\MyProject\WebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\Qwerty\Desktop\Lessons\Lessons\MyProject\WebAPI\bin\Debug\net5.0\FluentValidation.dll
-C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\bin\Debug\net5.0\appsettings.Development.json
 C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\bin\Debug\net5.0\appsettings.json
 C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\bin\Debug\net5.0\WebAPI.StaticWebAssets.xml
 C:\Users\Qwerty\Desktop\projectsC#\MyProject\WebAPI\bin\Debug\net5.0\WebAPI.exe
