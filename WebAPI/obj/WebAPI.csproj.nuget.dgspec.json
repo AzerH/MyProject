@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Business\\Business.csproj": {
+    "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Business\\Business.csproj",
-        "packagesPath": "C:\\Users\\Qwerty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Business\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Qwerty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Entities\\Entities.csproj"
+              "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -87,21 +87,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Core\\Core.csproj": {
+    "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\Qwerty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Core\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Qwerty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -155,9 +155,17 @@
               "target": "Package",
               "version": "[6.0.0, )"
             },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
               "version": "[6.22.1, )"
+            },
+            "System.Runtime": {
+              "target": "Package",
+              "version": "[4.3.1, )"
             }
           },
           "imports": [
@@ -175,21 +183,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\DataAccess\\DataAccess.csproj",
-        "packagesPath": "C:\\Users\\Qwerty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\DataAccess\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\DataAccess\\DataAccess.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Qwerty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -203,11 +211,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Core\\Core.csproj"
+              "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Core\\Core.csproj"
               },
-              "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Entities\\Entities.csproj"
+              "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -242,21 +250,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\Qwerty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Qwerty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -270,8 +278,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Core\\Core.csproj"
+              "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Core\\Core.csproj"
               }
             }
           }
@@ -300,21 +308,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\WebAPI\\WebAPI.csproj",
-        "packagesPath": "C:\\Users\\Qwerty\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\WebAPI\\obj\\",
+        "projectPath": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\WebAPI\\WebAPI.csproj",
+        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Qwerty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -328,17 +336,17 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Business\\Business.csproj": {
-                "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Business\\Business.csproj"
+              "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Business\\Business.csproj"
               },
-              "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Core\\Core.csproj"
+              "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Core\\Core.csproj"
               },
-              "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Qwerty\\Desktop\\projectsC#\\MyFirstProject\\MyProject\\Entities\\Entities.csproj"
+              "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\admin\\Desktop\\c# projects\\MyProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -384,7 +392,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       }
     }

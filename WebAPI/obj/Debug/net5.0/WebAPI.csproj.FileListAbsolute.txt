@@ -372,3 +372,4 @@ C:\Users\Qwerty\Desktop\projectsC#\MyFirstProject\MyProject\WebAPI\obj\Debug\net
 C:\Users\Qwerty\Desktop\projectsC#\MyFirstProject\MyProject\WebAPI\obj\Debug\net5.0\ref\WebAPI.dll
 C:\Users\Qwerty\Desktop\projectsC#\MyFirstProject\MyProject\WebAPI\obj\Debug\net5.0\WebAPI.pdb
 C:\Users\Qwerty\Desktop\projectsC#\MyFirstProject\MyProject\WebAPI\obj\Debug\net5.0\WebAPI.genruntimeconfig.cache
+C:\Users\admin\Desktop\c# projects\MyProject\WebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
